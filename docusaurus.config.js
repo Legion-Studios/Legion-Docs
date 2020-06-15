@@ -1,26 +1,34 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Legion Studios Docs',
+  tagline: 'Hello There 👋. Welcome to Legion Studios Doc site.',
+
+  url: 'https://github.com/Legion-Studios/Legion-Docs', // Your website URL
+  baseUrl: '/Legion-Docs/',
+  projectName: 'Legion-Docs',
+  organizationName: 'Legion-Studios',
+
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    // defaultDarkMode: true,
+    // disableDarkMode: true,
+    prism: {
+      theme: require("prism-react-renderer/themes/github"),
+      darkTheme: require("prism-react-renderer/themes/dracula"),
+    },
     navbar: {
-      title: 'My Site',
+      title: 'LS Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Doc Logo',
         src: 'img/logo.svg',
       },
       links: [
         {
-          to: 'docs/',
+          to: 'docs/index',
           activeBasePath: 'docs',
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'News', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -39,8 +47,8 @@ module.exports = {
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Doc',
+              to: 'docs/index/',
             },
           ],
         },
@@ -48,16 +56,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Ur mom',
+              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/Wdrth6',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Steam workShop',
+              href: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1656708630',
             },
           ],
         },
@@ -70,12 +78,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/Legion-Studios',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Legion Studio, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -102,4 +110,5 @@ module.exports = {
       },
     ],
   ],
+  
 };
