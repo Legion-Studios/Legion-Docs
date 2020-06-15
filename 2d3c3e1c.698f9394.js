@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{112:function(o){o.exports=JSON.parse('{"allTagsPath":"/Legion-Docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/Legion-Docs/blog/tags/hola"}')}}]);
