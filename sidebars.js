@@ -8,7 +8,12 @@ module.exports = {
     {
       type: 'category',
       label: 'Code Organization',
-      items: ['code_organization/macros'],
+      items: ['code_organization/macros','code_organization/classnames'],
+    },
+    {
+      type: 'category',
+      label: 'Scripting/Functions',
+      items: ['scripting_documentation/keybinds','scripting_documentation/common','scripting_documentation/utility','scripting_documentation/vehicles']
     },
     {
       type: 'category',

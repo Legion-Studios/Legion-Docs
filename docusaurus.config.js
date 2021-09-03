@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Legion Studios',
-  tagline: 'Hello There 👋. Welcome to Legion Studios Doc site.',
+  tagline: 'Hello There 👋! .',
 
   url: 'https://github.com/Legion-Studios/Legion-Docs', // Your website URL
   baseUrl: '/Legion-Docs/',
@@ -29,7 +29,7 @@ module.exports = {
           label: 'Documentation',
           position: 'left',
         },
-        {to: 'blog', label: 'News', position: 'left'},
+        {to: 'blog', label: 'Dev Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
