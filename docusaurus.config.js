@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Legion Studios Documentation',
+  title: 'Legion Studios',
   tagline: 'Hello There 👋. Welcome to Legion Studios Doc site.',
 
   url: 'https://github.com/Legion-Studios/Legion-Docs', // Your website URL
