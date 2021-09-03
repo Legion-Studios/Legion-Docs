@@ -17,7 +17,7 @@ module.exports = {
       darkTheme: require("prism-react-renderer/themes/dracula"),
     },
     navbar: {
-      title: 'LS Docs',
+      title: 'Information',
       logo: {
         alt: 'Doc Logo',
         src: 'img/LS.ico',
@@ -65,7 +65,7 @@ module.exports = {
               href: 'https://discord.gg/Wdrth6',
             },
             {
-              label: 'Steam SorkShop',
+              label: 'Steam WorkShop',
               href: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1656708630',
             },
           ],

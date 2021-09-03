@@ -2,7 +2,7 @@ module.exports = {
   someSidebar: [
     {
       type: 'category',
-      label: 'Main',
+      label: 'Information',
       items: ['index'],
     },
     {
