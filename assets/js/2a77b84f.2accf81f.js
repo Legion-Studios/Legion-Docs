@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[404],{5776:function(s){s.exports=JSON.parse('{"allTagsPath":"/Legion-Docs/blog/tags","slug":"legion-studios","name":"legion studios","count":1,"permalink":"/Legion-Docs/blog/tags/legion-studios"}')}}]);

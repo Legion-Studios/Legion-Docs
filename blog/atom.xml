@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Legion-Studios/Legion-Docs/blog</id>
     <title>Legion Studios Blog</title>
-    <updated>2019-05-30T00:00:00.000Z</updated>
+    <updated>2021-09-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Legion-Studios/Legion-Docs/blog"/>
     <subtitle>Legion Studios Blog</subtitle>
     <icon>https://github.com/Legion-Studios/Legion-Docs/img/LS.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Reorganization]]></title>
+        <id>Reorganization</id>
+        <link href="https://github.com/Legion-Studios/Legion-Docs/Legion-Docs/blog/2021/09/03/MovingTime"/>
+        <updated>2021-09-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After having this website set up for more than a year, we figured it was about time we used it to organize all the information you all will need to know about the team and our game plans.]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>Welcome</id>

@@ -4,9 +4,16 @@
         <title>Legion Studios Blog</title>
         <link>https://github.com/Legion-Studios/Legion-Docs/blog</link>
         <description>Legion Studios Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Reorganization]]></title>
+            <link>https://github.com/Legion-Studios/Legion-Docs/Legion-Docs/blog/2021/09/03/MovingTime</link>
+            <guid>Reorganization</guid>
+            <pubDate>Fri, 03 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[After having this website set up for more than a year, we figured it was about time we used it to organize all the information you all will need to know about the team and our game plans.]]></description>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://github.com/Legion-Studios/Legion-Docs/Legion-Docs/blog/2019/05/30/welcome</link>

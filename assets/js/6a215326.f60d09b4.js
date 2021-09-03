@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[73],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/Legion-Docs/blog/2019/05/30/welcome"},{"title":"Hello","permalink":"/Legion-Docs/blog/2019/05/29/hello-world"},{"title":"Hola","permalink":"/Legion-Docs/blog/2019/05/28/hola"}]}')}}]);
