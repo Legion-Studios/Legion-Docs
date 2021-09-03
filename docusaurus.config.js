@@ -57,12 +57,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Ur mom',
+              label: 'From Namenai w/ Love',
               href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
             },
             {
               label: 'Discord',
-              href: 'https://discord.gg/Wdrth6',
+              href: 'https://discord.com/invite/eWz2xPXdeq',
             },
             {
               label: 'Steam WorkShop',
