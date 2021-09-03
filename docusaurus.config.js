@@ -31,8 +31,8 @@ module.exports = {
         },
         {to: 'blog', label: 'Dev Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
+          href: 'https://discord.com/invite/eWz2xPXdeq',
+          label: 'Join our Discord!',
           position: 'right',
         },
       ],
