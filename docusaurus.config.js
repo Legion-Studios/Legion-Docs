@@ -6,7 +6,6 @@ module.exports = {
   baseUrl: '/Legion-Docs/',
   projectName: 'Legion-Docs',
   organizationName: 'Legion-Studios',
-  USE_SSH: true,
 
   favicon: 'img/LS.ico',
   themeConfig: {
@@ -20,7 +19,7 @@ module.exports = {
       title: 'LS Docs',
       logo: {
         alt: 'Doc Logo',
-        src: 'img/logo.svg',
+        src: 'img/LS.ico',
       },
       links: [
         {
