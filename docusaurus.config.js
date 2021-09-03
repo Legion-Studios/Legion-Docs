@@ -21,11 +21,11 @@ module.exports = {
         alt: 'Doc Logo',
         src: 'img/LS.ico',
       },
-      links: [
+      items: [
         {
           to: 'docs/index',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Documentation',
           position: 'left',
         },
         {to: 'blog', label: 'News', position: 'left'},
@@ -64,7 +64,7 @@ module.exports = {
               href: 'https://discord.gg/Wdrth6',
             },
             {
-              label: 'Steam workShop',
+              label: 'Steam SorkShop',
               href: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1656708630',
             },
           ],
@@ -83,7 +83,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Legion Studio, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Legion Studios, Built with Docusaurus.`,
     },
   },
   presets: [
@@ -92,7 +92,6 @@ module.exports = {
       {
         docs: {
           // It is recommended to set document id as docs home page (`docs/` path).
-          homePageId: 'doc1',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
