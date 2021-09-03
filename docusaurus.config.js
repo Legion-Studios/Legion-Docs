@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Legion Studios Docs',
+  title: 'Legion Studios Documentation',
   tagline: 'Hello There 👋. Welcome to Legion Studios Doc site.',
 
   url: 'https://github.com/Legion-Studios/Legion-Docs', // Your website URL
@@ -7,7 +7,7 @@ module.exports = {
   projectName: 'Legion-Docs',
   organizationName: 'Legion-Studios',
 
-  favicon: 'img/favicon.ico',
+  favicon: 'img/LS.ico',
   themeConfig: {
     // defaultDarkMode: true,
     // disableDarkMode: true,
