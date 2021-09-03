@@ -8,6 +8,7 @@ module.exports = {
   organizationName: 'Legion-Studios',
   USE_SSH: true,
 
+
   favicon: 'img/LS.ico',
   themeConfig: {
     // defaultDarkMode: true,
@@ -20,7 +21,7 @@ module.exports = {
       title: 'LS Docs',
       logo: {
         alt: 'Doc Logo',
-        src: 'img/logo.svg',
+        src: 'img/LS.ico',
       },
       links: [
         {
