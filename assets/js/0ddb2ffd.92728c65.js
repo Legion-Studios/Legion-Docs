@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[773],{4481:function(s){s.exports=JSON.parse('{"allTagsPath":"/Legion-Docs/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/Legion-Docs/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[618],{9533:function(e){e.exports=JSON.parse('{"allTagsPath":"/Legion-Docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/Legion-Docs/blog/tags/hola"}')}}]);
