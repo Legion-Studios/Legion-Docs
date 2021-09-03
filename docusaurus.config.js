@@ -41,14 +41,14 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Information',
           items: [
             {
               label: 'Style Guide',
               to: 'docs/',
             },
             {
-              label: 'Doc',
+              label: 'Documentation',
               to: 'docs/index/',
             },
           ],
@@ -57,16 +57,12 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'From Namenai w/ Love',
-              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-            },
-            {
               label: 'Discord',
               href: 'https://discord.com/invite/eWz2xPXdeq',
             },
             {
-              label: 'Steam WorkShop',
-              href: 'https://steamcommunity.com/sharedfiles/filedetails/?id=1656708630',
+              label: 'Steam Workshop',
+              href: 'https://steamcommunity.com/id/LSDevAccount/myworkshopfiles/',
             },
           ],
         },
@@ -78,13 +74,13 @@ module.exports = {
               to: 'blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/Legion-Studios',
+              label: 'From Namenai w/ Love',
+              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Legion Studios, Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Legion Studios`,
     },
   },
   presets: [
@@ -92,17 +88,10 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
-          // It is recommended to set document id as docs home page (`docs/` path).
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          sidebarPath: require.resolve('./sidebars.js')
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
