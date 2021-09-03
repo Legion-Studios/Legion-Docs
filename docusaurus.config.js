@@ -6,6 +6,7 @@ module.exports = {
   baseUrl: '/Legion-Docs/',
   projectName: 'Legion-Docs',
   organizationName: 'Legion-Studios',
+  onBrokenLinks: 'warn',
 
   favicon: 'img/LS.ico',
   themeConfig: {
